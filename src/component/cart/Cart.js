@@ -3,7 +3,7 @@ import "./Cart.css";
 import { FaArrowRightLong } from "react-icons/fa6";
 import { useSelector } from "react-redux";
 import { useDispatch } from "react-redux";
-import { removeItem, clearCart } from "../store/cartSlice";
+import { removeItem} from "../store/cartSlice";
 import { RiDeleteBinFill } from "react-icons/ri";
 import QuantityControl from "../utils/QuantityControl";
 import { Link } from "react-router-dom";

@@ -29,9 +29,9 @@ const cartSlice = createSlice({
       );
       state.items = updatedItems;
     },
-    clearCart: (state) => {
-      state.items = [];
-    },
+    // clearCart: (state) => {
+    //   state.items = [];
+    // },
   },
 });
 
