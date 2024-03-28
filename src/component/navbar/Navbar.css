@@ -109,7 +109,7 @@
   }
 }
 
-@media (min-width: 426px) and (max-width: 768px) {
+@media (min-width: 431px) and (max-width: 768px) {
   .navbar {
     padding: 24px 50px 24px 50px;
   }
@@ -126,7 +126,7 @@
   }
 }
 
-@media (min-width: 321px) and (max-width: 425px) {
+@media (min-width: 321px) and (max-width: 430px) {
   .navbar {
     padding: 25px 16px;
   }

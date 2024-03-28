@@ -8,7 +8,7 @@
   height: 20px;
   padding: 12px 20px;
 }
-@media (min-width: 321px) and (max-width: 425px) {
+@media (min-width: 321px) and (max-width: 430px) {
   .items-add-remove-button {
     width: 75px;
     height: 15px;

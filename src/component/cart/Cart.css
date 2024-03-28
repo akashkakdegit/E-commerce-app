@@ -177,7 +177,7 @@
   color: #ffffff;
 }
 
-@media (min-width: 426px) and (max-width: 1024px) {
+@media (min-width: 431px) and (max-width: 1024px) {
   .cart-main-container {
     margin: 0px 20px 80px 20px;
   }
@@ -190,7 +190,7 @@
     justify-content: center;
   }
 }
-@media (min-width: 321px) and (max-width: 425px) {
+@media (min-width: 321px) and (max-width: 430px) {
   .cart-main-container {
     margin: 0px 15px 90px 15px;
   }

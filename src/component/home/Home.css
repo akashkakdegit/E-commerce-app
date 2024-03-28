@@ -72,13 +72,13 @@
   line-height: 22px;
 }
 
-@media (min-width: 426px) and (max-width: 768px) {
+@media (min-width: 431px) and (max-width: 768px) {
   .shop-products-container {
     justify-content: center;
   }
 }
 
-@media (min-width: 321px) and (max-width: 425px) {
+@media (min-width: 321px) and (max-width: 430px) {
   .home-container {
     margin: 50px 60px 190px 60px;
     & .heading {
